@@ -1,4 +1,5 @@
 #20151204
+#file
 
 filename = ARGV.first
 txt = open(filename)
