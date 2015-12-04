@@ -18,3 +18,11 @@ def name.shout
 end
 
 puts name.shout    
+
+arr = ["Jonukas", "Petriukas", "Gretute", "Algimantelis"]
+i = 0
+
+while arr[i]
+    puts arr[i]
+    i += 1
+end
